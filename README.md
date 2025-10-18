@@ -1,7 +1,7 @@
 # 🛍️ Sellya
 
 **Sellya** is a modern Flutter-based marketplace app that allows users to **buy, sell, and manage items easily**.  
-Built with Firebase backend and a sleek UI, OwnSell provides a fast, secure, and user-friendly experience for mobile commerce.
+Built with Firebase backend and a sleek UI, Sellya provides a fast, secure, and user-friendly experience for mobile commerce.
 
 ---
 
